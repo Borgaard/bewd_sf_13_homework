@@ -30,10 +30,10 @@ Weekly Homework
 
 Homework is given each Monday, and is always due the next Monday. Feedback on each assignment submitted **_on time_** will be provided by Wednesday via comments on pull requests.
 
-| Assignment # | Class Topic | Due Date | Feedback Date |
+| Assignment # | Class Topic | Due Date | Notes |
 | :----------- | :---------- | :------- | :------------ |
-| 1.           | -           | - | - |
-| 2.           | -           | - | - |
+| 1. Read chapters 1-3 of Well Grounded Rubyist | [Install Fest!](https://github.com/ga-students/bewd_sf_13/blob/master/00_Install_Fest/install_instructions.md) | Monday, April 25th | No feedback, you're keeping yourself accountable for this one :-) |
+| 2. Set Atom tab width to two spaces, not tabs.<br/> Read chapters 1-5 of Well Grounded Rubyist.<br/> Bonus: Command Line Murder Mystery! | [Intro to Ruby](https://github.com/ga-students/bewd_sf_13/tree/master/01_Intro) | Monday, May 2nd | What is string interpolation?<br> Pass by reference vs. pass by value?<br> Bonus: Who did it in Command Line Murder Mystery? |
 | 3.           | -           | - | - |
 | 4.           | -           | - | - |
 | ...          | -           | - | - |
