@@ -32,8 +32,8 @@ Homework is given each Monday, and is always due the next Monday. Feedback on ea
 
 | Assignment # | Class Topic | Due Date | Notes |
 | :----------- | :---------- | :------- | :------------ |
-| 1. Read chapters 1-3 of Well Grounded Rubyist | [Install Fest!](https://github.com/ga-students/bewd_sf_13/blob/master/00_Install_Fest/install_instructions.md) | Monday, April 25th | No feedback, you're keeping yourself accountable for this one :-) |
-| 2. Set Atom tab width to two spaces, not tabs.<br/> Read chapters 1-5 of Well Grounded Rubyist.<br/> Bonus: Command Line Murder Mystery! | [Intro to Ruby](https://github.com/ga-students/bewd_sf_13/tree/master/01_Intro) | Monday, May 2nd | What is string interpolation?<br> Pass by reference vs. pass by value?<br> Bonus: Who did it in Command Line Murder Mystery? |
-| 3.           | -           | - | - |
+| 1. Read chapters 1-3 of Well Grounded Rubyist | [00_Install Fest!](https://github.com/ga-students/bewd_sf_13/blob/master/00_Install_Fest/install_instructions.md) | Monday, April 25th | No feedback, you're keeping yourself accountable for this one :-) |
+| 2. Set Atom tab width to two spaces, not tabs.<br/> Read chapters 1-5 of Well Grounded Rubyist.<br/> Bonus: Command Line Murder Mystery! | [01_Intro to Ruby](https://github.com/ga-students/bewd_sf_13/tree/master/01_Intro) | Monday, May 2nd | What is string interpolation?<br> Pass by reference vs. pass by value?<br> Bonus: Who did it in Command Line Murder Mystery? |
+| 3. Complete `reverse_it.rb`.<br>Read chapters 6-9 of Well Grounded Rubyist | [02_Ruby_Fundamentals](https://github.com/ga-students/bewd_sf_13/tree/master/02_Ruby_Fundamentals)           | Monday, May 9th | Use the `reverse_it.rb` method you write to check if the word given is a palindrome. What is the difference between an array and a hash/object? |
 | 4.           | -           | - | - |
 | ...          | -           | - | - |
