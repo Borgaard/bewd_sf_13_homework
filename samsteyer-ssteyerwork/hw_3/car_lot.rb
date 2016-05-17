@@ -77,7 +77,6 @@ def list_quality(cars, quality)
   return answer_string
 end
 
-# ADD INPUT CHECKING AND CASE HANDLING
 # This method allows you to query the cars by color
 def take_input(cars)
   customer_wants = {}
