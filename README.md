@@ -38,6 +38,6 @@ Homework is given each Monday, and is always due the next Monday. Feedback on ea
 | 4. Chapters 6-12 of WGR.<br> Complete `car_lot.rb`, `reverse_it.rb`, and `love_post.rb`<br> **Optional:** WGR chapter 11 on Regex.| [03_Ruby_Fundamentals](https://github.com/ga-students/bewd_sf_13/tree/master/03_Ruby_Fundamentals) | Special case: `love_post.rb` is due Wednesday, May 4th. Everything else is due Monday, May 16th | What are a few different methods of iterating (looping) through arrays? How can you iterate through keys of a hash? Iterate through values of that same hash. |
 | 5. Complete `get_it.rb` | [05_Ruby_Fundamentals](https://github.com/ga-students/bewd_sf_13/tree/master/05_Ruby_Fundamentals) | Monday, May 16th | Bonus: Store your API call results in a CSV.<br><details><summary>Hint:</summary><p> Use the CSV gem.</p></details>|
 | 6. Complete `thermostat.rb` and `robot.rb` | [06_Ruby_Fundamentals](https://github.com/ga-students/bewd_sf_13/tree/master/06_Ruby_Fundamentals) | Monday, May 16th | What is the difference between an instance method and a class method? |
-| ...          | -           | - | - |
+| 7. Complete `rise_of_robots.rb` | [07_Ruby_Fundamentals](https://github.com/ga-students/bewd_sf_13/tree/master/07_Ruby_Fundamentals) | Monday, May 23rd | Allow multiple types of robots inherit from the Robot class. Create Androids with basic methods, and Super Androids with better versions of those methods. We'll review `rise_of_robots.rb` on Wednesday, May 18th. |
 | ...          | -           | - | - |
 
